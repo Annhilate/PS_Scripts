@@ -1,5 +1,5 @@
 ﻿################################################################################################################################################################
-# Script to set admin password to never expire
+# Script to export list of licensed users
 # Script accepts 2 parameters from the command line
 #
 # adminAccount - Optional - Administrator login ID for the tenant we are querying (Domain A)
