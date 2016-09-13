@@ -11,7 +11,7 @@ CONTENTS
   federate.ps1 - federates domain X to domain Y
   importContacts.ps1 - Imports specifically formated csv file containng email contact info into Hosted Exchange
   noexoure.ps1 - set specific user password to never expire 
-  users.ps1 - exports csv file listing licensed users
+  users.ps1 - exports csv file which contaings listing licensed users
     
 
 
